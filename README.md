@@ -1,2 +1,2 @@
 # operation-eye
-Face detection for art project
+Video and camera stream with face detection for an art project
